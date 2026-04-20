@@ -36,6 +36,6 @@ I'm in love with building cli tools, backend applications. I enjoy working in th
 
 - 🔗 **LinkedIn:** [Omotolani Emmanuel Olatunde](https://www.linkedin.com/in/emmanuel-olatunde-519808194/)
 - 🐦 **Twitter:** [@tolani_doye](https://twitter.com/tolani_doye)
-- 💻 **Portfolio:** [omotolani.tech](https://omotolani.tech)
+- 💻 **Portfolio:** [tolaniverse](https://tolaniiverse.xyz)
 
 Feel free to explore my repositories, connect, or collaborate. Let’s build amazing things together! 🚀
