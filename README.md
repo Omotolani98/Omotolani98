@@ -8,7 +8,7 @@ I'm in love with building cli tools, backend applications. I enjoy working in th
 
 ## About Me
 
-- Currently developing [**k8ly**](https://github.com/Omotolani98/k8ly), a cloud-native toolkit for Kubernetes.
+- Currently developing [**foostash**](https://github.com/Omotolani98/foostash), a cloud-native toolkit for Kubernetes.
 - Constantly learning: Deepening my expertise in DevOps, Golang, and Kubernetes.
 - Always open to collaboration on Kubernetes, DevOps, or cloud-native projects.
 - Reach me directly at: [olatundeomotolani23@gmail.com](mailto:olatundeomotolani23@gmail.com)
