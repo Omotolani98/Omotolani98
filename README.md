@@ -26,16 +26,16 @@ I'm in love with building cli tools, backend applications. I enjoy working in th
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Omotolani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omotolani98&show_icons=true&theme=radical)
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
-- 🔗 **LinkedIn:** [Omotolani Emmanuel Olatunde](https://www.linkedin.com/in/emmanuel-olatunde-519808194/)
-- 🐦 **Twitter:** [@tolani_doye](https://twitter.com/tolani_doye)
-- 💻 **Portfolio:** [tolaniverse](https://tolaniiverse.xyz)
+- **LinkedIn:** [Omotolani Emmanuel Olatunde](https://www.linkedin.com/in/emmanuel-olatunde-519808194/)
+- **Twitter:** [@tolani_doye](https://twitter.com/tolani_doye)
+- **Portfolio:** [tolaniverse](https://tolaniiverse.xyz)
 
 Feel free to explore my repositories, connect, or collaborate. Let’s build amazing things together
